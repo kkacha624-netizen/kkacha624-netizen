@@ -1,16 +1,20 @@
-## Hi there 👋
+# kkacha / Python Developer
 
-<!--
-**kkacha624-netizen/kkacha624-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大学で情報系を学びながら、Pythonを中心に業務自動化・データ処理・機械学習・画像処理ツールを制作しています。
 
-Here are some ideas to get you started:
+## 得意分野
+- Pythonによる業務自動化
+- CSV / Excel データ処理
+- 画像処理・機械学習
+- GitHubを用いた開発管理
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Excel Report Automator
+日本語CSV/Excelから月次レポートを自動生成するPythonツール。
+
+### Directory Tree Builder
+ディレクトリ構成図からフォルダ・空ファイルを自動生成するWindows向けツール。
+
+### XAI Misclassification Analysis
+ResNet18とGrad-CAMを用いて画像分類モデルの誤分類原因を分析する研究用リポジトリ。
